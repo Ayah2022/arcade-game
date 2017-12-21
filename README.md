@@ -1,5 +1,10 @@
 frontend-nanodegree-arcade-game
 ===============================
+![alt text](images/sc1.png)
+## when lose
+![alt text](images/sc2.png)
+## when win
+![alt text](images/sc3.png)
 ### Attributions
 
 Game engine.js and resources.js by <a href="https://www.udacity.com/">Udacity</a>
